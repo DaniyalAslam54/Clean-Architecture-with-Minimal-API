@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "q8sQ8TRasG7WzPVrEfDz8GBeiwY8anwEkG5VVoF8y+a0/vkijJH2svWMFMwLzwriqP1mXrleMFlAiy/xa8lpaQ==",
+  "dgSpecHash": "Xq7mHtPIG/DJmVv2OKaAMLKXJccudUtM9D/b6UlVsZqToKAq27LtuddHxhkiXmvuv6I/yOdhuQfOQNQcFCLVlw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Digital Dividend\\Desktop\\Clean Architecture With Minimal API\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Digital Dividend\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Digital Dividend\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Digital Dividend\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,11 @@
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\Domain\obj\Debug\net8.0\ref\Domain.dll
