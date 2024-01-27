@@ -135,3 +135,5 @@ C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\MinimalApi
 C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\MinimalApi\obj\Debug\net8.0\MinimalApi.pdb
 C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\MinimalApi\obj\Debug\net8.0\MinimalApi.genruntimeconfig.cache
 C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\MinimalApi\obj\Debug\net8.0\ref\MinimalApi.dll
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\MinimalApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\Digital Dividend\Desktop\Clean Architecture With Minimal API\MinimalApi\bin\Debug\net8.0\MediatR.Contracts.dll

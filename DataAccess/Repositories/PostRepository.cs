@@ -34,7 +34,7 @@ namespace DataAccess.Repositories
             await _dbContext.SaveChangesAsync();
         }
 
-        public async Task<ICollection<Post>> GetAllPosts()
+        public async Task<IReadOnlyCollection<Post>> GetAllPosts()
         {
            return await _dbContext.Posts.ToListAsync();
         }
